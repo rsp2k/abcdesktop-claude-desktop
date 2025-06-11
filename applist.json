@@ -1,0 +1,20 @@
+[
+  {
+    "cat": "utilities",
+    "debpackage": "",
+    "icon": "claude-desktop.svg",
+    "keyword": "claude,ai,assistant,anthropic,chat,llm,artificial intelligence",
+    "launch": "claude.Claude",
+    "name": "claude-desktop",
+    "displayname": "Claude Desktop",
+    "path": "/opt/Claude/claude",
+    "template": "abcdesktopio/oc.template.gtk",
+    "args": "",
+    "executablefilename": "claude",
+    "usedefaultapplication": false,
+    "desktopfile": "/usr/share/applications/claude-desktop.desktop",
+    "mimetype": "",
+    "fileextensions": "",
+    "legacyfileextensions": ""
+  }
+]
